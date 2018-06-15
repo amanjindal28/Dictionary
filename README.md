@@ -1,0 +1,2 @@
+# Dictionary
+iT IS A DICTIONARY WRITTEN IN PYTHON
